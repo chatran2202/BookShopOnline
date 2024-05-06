@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeBook.Web", "CafeBook.Web\CafeBook.Web.csproj", "{E325E831-7D37-4EFE-BDB0-5A7FEC9F2170}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CafeBook.Web", "CafeBook.Web\CafeBook.Web.csproj", "{E325E831-7D37-4EFE-BDB0-5A7FEC9F2170}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeBook.Models", "CafeBook.Models\CafeBook.Models.csproj", "{F0029B3B-B406-4BA7-84AB-70F0BDB491EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CafeBook.Models", "CafeBook.Models\CafeBook.Models.csproj", "{F0029B3B-B406-4BA7-84AB-70F0BDB491EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeBook.Utility", "CafeBook.Utility\CafeBook.Utility.csproj", "{FC9019DB-3537-4663-9E46-2DC6F1E0250C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CafeBook.Utility", "CafeBook.Utility\CafeBook.Utility.csproj", "{FC9019DB-3537-4663-9E46-2DC6F1E0250C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeBook.DataAccess", "CafeBook.DataAccess\CafeBook.DataAccess.csproj", "{42C5ACCC-B611-497C-828A-DED20E444A5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CafeBook.DataAccess", "CafeBook.DataAccess\CafeBook.DataAccess.csproj", "{42C5ACCC-B611-497C-828A-DED20E444A5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
